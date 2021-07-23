@@ -5,9 +5,9 @@
     <classes>
       <class name="AutomatedTests.TrasnlinkTest">
         <methods>
+          <include name="translinkTest"/>
           <include name="tearDown"/>
           <include name="setupTest"/>
-          <include name="test"/>
         </methods>
       </class> <!-- AutomatedTests.TrasnlinkTest -->
     </classes>

@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-22T19:07:44 GMT-07:00" name="Default suite" finished-at="2021-07-22T19:08:05 GMT-07:00" duration-ms="20986">
+  <suite started-at="2021-07-23T11:04:10 GMT-07:00" name="Default suite" finished-at="2021-07-23T11:04:37 GMT-07:00" duration-ms="26564">
     <groups>
     </groups>
-    <test started-at="2021-07-22T19:07:44 GMT-07:00" name="Default test" finished-at="2021-07-22T19:08:05 GMT-07:00" duration-ms="20986">
+    <test started-at="2021-07-23T11:04:10 GMT-07:00" name="Default test" finished-at="2021-07-23T11:04:37 GMT-07:00" duration-ms="26564">
       <class name="AutomatedTests.TrasnlinkTest">
-        <test-method is-config="true" signature="setupTest()[pri:0, instance:AutomatedTests.TrasnlinkTest@36916eb0]" started-at="2021-07-22T19:07:45 GMT-07:00" name="setupTest" finished-at="2021-07-22T19:07:47 GMT-07:00" duration-ms="2676" status="PASS">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:AutomatedTests.TrasnlinkTest@3ee37e5a]" started-at="2021-07-23T11:04:10 GMT-07:00" name="setupTest" finished-at="2021-07-23T11:04:15 GMT-07:00" duration-ms="4740" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupTest -->
-        <test-method signature="test()[pri:0, instance:AutomatedTests.TrasnlinkTest@36916eb0]" started-at="2021-07-22T19:07:47 GMT-07:00" name="test" finished-at="2021-07-22T19:08:05 GMT-07:00" duration-ms="17934" status="PASS">
+        <test-method signature="translinkTest()[pri:0, instance:AutomatedTests.TrasnlinkTest@3ee37e5a]" started-at="2021-07-23T11:04:15 GMT-07:00" name="translinkTest" finished-at="2021-07-23T11:04:36 GMT-07:00" duration-ms="21419" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomatedTests.TrasnlinkTest@36916eb0]" started-at="2021-07-22T19:08:05 GMT-07:00" name="tearDown" finished-at="2021-07-22T19:08:05 GMT-07:00" duration-ms="338" status="PASS">
+        </test-method> <!-- translinkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomatedTests.TrasnlinkTest@3ee37e5a]" started-at="2021-07-23T11:04:36 GMT-07:00" name="tearDown" finished-at="2021-07-23T11:04:37 GMT-07:00" duration-ms="316" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
